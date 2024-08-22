@@ -2,7 +2,7 @@
   "name": "ajs",
   "version": "1.0.0",
   "description": "",
-  "main": "js/app.js",
+  "main": "server.js",
   "scripts": {
     "prestart": "npm install",
     "start": "forever server.js",
